@@ -1,4 +1,4 @@
-# Simulating-the-Forensics-Lab-Basics
+# Simulating the Forensics Lab Basics
 
 ## Aim :
    To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file system.
@@ -55,8 +55,8 @@
 2. Click Action > Create **VHD**.
 3. Choose a location and set a disk size (e.g., 10GB+).
 4. Select Fixed Size or Dynamically Expanding and click OK.
-5. Right-click the new disk → Initialize Disk → Select **MBR**.
-6. Right-click Unallocated Space → **New Simple Volume** → Format the disk.
+5. In Disk Management, find your new disk (marked as "Not Initialized") -> Right-click the new disk → Initialize Disk → Select **MBR**.
+6. Right-click Unallocated Space → **New Simple Volume** → Format the disk -> Click next → Finish.
 
 ---
 
