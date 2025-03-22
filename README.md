@@ -72,7 +72,7 @@
 
 ![](./images/Kali.png)
 
-![](./images/kali2.png)
+![](./images/kali1.png)
 
 ---
 
