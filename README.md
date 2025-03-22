@@ -69,29 +69,29 @@
 ## Output:
 
 ### **Virtual Box:**
-![](./VB.png)
+![](./images/VB.png)
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
-![](./Kali.png)
-![](./kali2.png)
+![](./images/Kali.png)
+![](./images/kali2.png)
 
 ---
 
 ### **Autopsy**
-![](./autopsy.png)
+![](./images/autopsy.png)
 
 ---
 
 ### **Sleuth Kit**
-![](./s1.png)
-![](./s2.png)
+![](./images/s1.png)
+![](./images/s2.png)
 
 ---
 
 ### **Creation of Virtual Hard Disk**
-![](./disk.png)
+![](./images/disk.png)
 
 ---
 
