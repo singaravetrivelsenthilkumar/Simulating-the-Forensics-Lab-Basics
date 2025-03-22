@@ -1,13 +1,13 @@
 # Simulating-the-Forensics-Lab-Basics
 
 ## Aim :
-   To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file systems.
+   To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file system.
 
-## 
-
+## **1. Setting Up a Virtual Environment**
 ---
+
 ### **Step 1: Install VirtualBox**
-🔗 **Download VirtualBox**: (https://virtualbox.en.softonic.com/)  
+🔗 **Download VirtualBox**: [click here](https://virtualbox.en.softonic.com/)  
 
 ### **Installation Steps:**
 1. Download the **Windows hosts** `.exe` file from the official VirtualBox website.  
@@ -16,7 +16,7 @@
 
 ---
 
-## **Step 2: Install Kali Linux on VirtualBox**
+### **Step 2: Install Kali Linux on VirtualBox**
 🔗 **Download Kali Linux VM**: [Click Here](https://www.kali.org/get-kali/#kali-virtual-machines)  
 
 ### **Installation Steps:**
@@ -28,7 +28,10 @@
 
 ---
 
-## **Step 3: Install Autopsy (GUI-based Forensic Tool)**
+## **2. Installing Forensic Tools**
+---
+
+### **Step 3: Install Autopsy (GUI-based Forensic Tool)**
 🔗 **Download Autopsy**: [Click Here](https://www.autopsy.com/download/)  
 
 ### **Installation Steps:**
@@ -38,7 +41,7 @@
 
 ---
 
-## **Step 4: Install Sleuth Kit (CLI-based Forensic Tools)**
+### **Step 4: Install Sleuth Kit (CLI-based Forensic Tools)**
 🔗 **Download Sleuth Kit**: [Click Here](https://sleuthkit.org/download.php)  
 
 ### **Installation Steps:**
@@ -53,9 +56,9 @@
    fls -version
 
 ---
-## **Step 5: Create & Configure a Virtual Hard Disk (VHD) in Windows**
+## **3. Create & Configure a Virtual Hard Disk (VHD) in Windows**
 
-### ** Creating a VHD in Windows Disk Management**
+### **Step 5: Creating a VHD in Windows Disk Management**
 1. Press **Win + X**, Select Disk Management.
 2. Click Action > Create **VHD**.
 3. Choose a location and set a disk size (e.g., 10GB+).
@@ -65,22 +68,32 @@
 
 ## Output:
 
-### Virtual Box:
+### **Virtual Box:**
 ![](./VB.png)
 
-### Virtual Machine (Kali Linux)
+---
+
+### **Virtual Machine (Kali Linux)**
 ![](./Kali.png)
 ![](./kali2.png)
 
-### Autopsy
+---
+
+### **Autopsy**
 ![](./autopsy.png)
 
-### Sleuth Kit
+---
+
+### **Sleuth Kit**
 ![](./s1.png)
 ![](./s2.png)
 
-### Virtual Hard Disk
+---
+
+### **Creation of Virtual Hard Disk**
 ![](./disk.png)
+
+---
 
 ## Result :
 The installation of VirtualBox, Autopsy, and Sleuth Kit, along with the setup of Kali Linux - Virtual Machine and the creation of a new virtual disk, has been successfully completed.
