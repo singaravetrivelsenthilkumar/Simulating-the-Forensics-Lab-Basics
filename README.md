@@ -1,7 +1,7 @@
 # Simulating the Forensics Lab Basics
 ```
-Name : Aakashraj M
-Reg.no : 212222100002
+Name : Singaravetrivel S
+Reg.no : 212222220048
 ```
 ## Aim :
    To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file system.
